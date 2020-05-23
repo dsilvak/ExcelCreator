@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelCreator", "ExcelCreator\ExcelCreator.csproj", "{29FE3C9F-D579-40CD-8702-8531E28219CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FE3C9F-D579-40CD-8702-8531E28219CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FE3C9F-D579-40CD-8702-8531E28219CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FE3C9F-D579-40CD-8702-8531E28219CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FE3C9F-D579-40CD-8702-8531E28219CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D991E007-E677-41B9-A52D-D55ED4E961FF}
+	EndGlobalSection
+EndGlobal
